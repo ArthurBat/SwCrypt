@@ -386,10 +386,9 @@
 			};
 			buildConfigurationList = A0A71E721CBC7D74002C5C88 /* Build configuration list for PBXProject "SwCrypt" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
